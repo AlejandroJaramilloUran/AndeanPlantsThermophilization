@@ -23,7 +23,7 @@ knitr::opts_knit$set(root.dir = "C:/Users/alejo/OneDrive - Universidad de Antioq
 
 # Content
 
-This page includes the code used to calculate the **community temperature score (CTS)** (the average of the thermal optima of species in a plot) using \~18 years iof tree plot data. The CTS is an index and its positive change over time is referred to as thermophilization. A positive change indicates an increase in the relative abundance of lowland species.
+This page includes the code used to calculate the **community temperature score (CTS)** (the average of the thermal optima of species in a plot) using \~18 years of tree plot data. The CTS is an index and its positive change over time is referred to as thermophilization. A positive change indicates an increase in the relative abundance of lowland species.
 
 The 24 plots are located in north-east Antioquia. There are two different tables (p2 and p3) depending on the project under which the plots were constructed
 
